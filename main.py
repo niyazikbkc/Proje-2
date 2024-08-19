@@ -45,6 +45,19 @@ def duzelt ()
      dosya.write(f"{str(a)},")
 
 
+def sil():
+    with open("rehber.xx","r") as dosya:
+        okunan = dosya.read()
+    cevirilen = ast.literal_eval(okunan)
+    aranan = input("Silinecek isim:")
+    dosya.close()
+    with open("rehber.listesi","w") as dosya:
+        for a in cevirilen:
+            if a["ADI"] != aranan:
+                dosya.write(f"{str(a)},")
+                
+
+
 
 
 
