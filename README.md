@@ -32,6 +32,6 @@ Kişileri Arama Ekranı : 3
 <img src="Kişi Arama Ekranı.png" alt="Örnek Resim"/>
 <br>
 <br>
-Kişileri Arama Ekranı : 4
+Kişileri Düzeltme Ekranı : 4
 <br>
 <img src="Rehberde Kişi Düzeltme Ekranı.png" alt="Örnek Resim"/>
