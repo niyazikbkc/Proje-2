@@ -5,6 +5,7 @@ Merhaba Rehber Programıma Hoşgeldiniz.
 Rehber uygulamam 5 farklı alt başlıktan oluşmaktadır.Kişi ekleme,kişi listeleme,kişi arama,kişi düzenleme,kişi silme uygulamamın alt başlıkları.Rehber uygulamam veileri saklar ve verilerimi depolaması için "import ast" komutunu kullandım.
 <br>
 <br>
+<br>
 Uygulama Menüsü :
 <br>
 Uygulamamın Ana Menü Ekranı Aşağıdaki Şekildedir
@@ -14,4 +15,8 @@ Menüden Listelenen Özelliklerden İstediğinizi Seçebilirsiniz
 <br>
 <br>
 <br>
-Rehber Uygulaması Alt Ekran Kullanım Yöntemi Ve Ekranları
+)Rehber Uygulaması Alt Ekran Kullanım Yöntemi Ve Ekranları:
+<br>
+Kişi Ekle Komutu : 1 
+<br>
+<img src="Rehber Ekleme Seçeneği Ekranı.png" alt="Örnek Resim"/>
