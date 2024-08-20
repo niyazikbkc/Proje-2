@@ -17,6 +17,11 @@ Menüden Listelenen Özelliklerden İstediğinizi Seçebilirsiniz
 <br>
 )Rehber Uygulaması Alt Ekran Kullanım Yöntemi Ve Ekranları:
 <br>
-Kişi Ekle Komutu : 1 
+Kişi Ekleme Ekranı  :  1 
 <br>
 <img src="Rehber Ekleme Seçeneği Ekranı.png" alt="Örnek Resim"/>
+<br>
+<br>
+Kişileri Listeleme Ekranı : 2
+<br>
+<img src="Kişi Listeleme Ekranı.png" alt="Örnek Resim"/>
