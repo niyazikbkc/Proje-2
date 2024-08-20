@@ -13,4 +13,6 @@ Uygulamamın Ana Menü Ekranı Aşağıdaki Şekildedir
 
 Menüden Listelenen Özelliklerden İstediğinizi Seçebilirsiniz
 <br>
-                                           Rehber Uygulaması Alt Ekran Kullanım Yöntemi Ve Ekranları
+<br>
+<br>
+Rehber Uygulaması Alt Ekran Kullanım Yöntemi Ve Ekranları
