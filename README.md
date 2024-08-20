@@ -30,3 +30,8 @@ Kişileri Listeleme Ekranı : 2
 Kişileri Arama Ekranı : 3
 <br>
 <img src="Kişi Arama Ekranı.png" alt="Örnek Resim"/>
+<br>
+<br>
+Kişileri Arama Ekranı : 4
+<br>
+<img src="Kişi Düzeltme Ekranı.png" alt="Örnek Resim"/>
