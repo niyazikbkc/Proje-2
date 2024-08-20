@@ -60,6 +60,8 @@ def sil():
         for a in cevirilen:
             if a["ADI"] != aranan:
                 dosya.write(str(a) + "\n")
+            else:
+                print(f"{aranan} kişisi başarıyla silinmiştir.")
 
 def menu():
     time.sleep(1)
