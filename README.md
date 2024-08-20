@@ -25,3 +25,8 @@ Kişi Ekleme Ekranı  :  1
 Kişileri Listeleme Ekranı : 2
 <br>
 <img src="Kişi Listeleme Ekranı.png" alt="Örnek Resim"/>
+<br>
+<br>
+Kişileri Arama Ekranı : 3
+<br>
+<img src="Kişi Arama Ekranı.png" alt="Örnek Resim"/>
