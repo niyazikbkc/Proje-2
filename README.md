@@ -10,5 +10,5 @@ Uygulama Menüsü :
 Uygulamamın Ana Menü Ekranı Aşağıdaki Şekildedir
 <br>
 <img src="Menü Seçenekl Ekranı.png" alt="Örnek Resim"/>
-<br>
+
 Menüden Listelenen Özelliklerden İstediğinizi Seçebilirsiniz
